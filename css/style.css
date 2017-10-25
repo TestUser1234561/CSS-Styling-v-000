@@ -12,3 +12,7 @@ figcaption {
   color: black;
   text-align: right;
 }
+
+.milk-text {
+  font: bold 2.6em 'Roboto', serif;
+}
