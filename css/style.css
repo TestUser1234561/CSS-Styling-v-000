@@ -23,7 +23,7 @@ figcaption {
   background-color: aqua;
 }
 
-#logo h1 {
+#logo h1, h2 {
   font-family: 'Roboto', serif
 }
 
